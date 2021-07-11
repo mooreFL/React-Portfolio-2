@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "StockChasr",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Social stock information site that allows the user to add and remove stocks from a watchlist",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://stockchasr.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "&Chill",
+    subtitle: "JavaScript and Handlebars",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A dating app that matches users based on movie preference.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://and--chill.herokuapp.com/",
   },
   {
-    title: "DevChat",
+    title: "Budget Tracker",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Progressive budget tracker with offline capability.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://moore-progressive-budget.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Work-Day Scheduler",
+    subtitle: "JavaScript, Moment.js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A hourly work day (9-5) calender that changes stylistically by hour based on actual time using momentjs.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://moorefl.github.io/Work-Day-Scheduler/",
   },
 ];
 
@@ -38,23 +38,24 @@ export const testimonials = [
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "John Doe",
+    company: "Duff",
   },
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "Jane Doe",
+    company: "oof",
   },
 ];
 
 export const skills = [
   "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "jQuery",
+  "Node.js",
+  "MySQL",
+  "Express.js",
+  "MongoDB",
+  "React"
 ];
