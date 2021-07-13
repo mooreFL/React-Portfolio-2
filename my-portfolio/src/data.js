@@ -3,7 +3,7 @@ export const projects = [
     title: "StockChasr",
     subtitle: "MERN Stack",
     description:
-      "Social stock information site that allows the user to add and remove stocks from a watchlist",
+      "Social stock information site that allows the user to add and remove stocks from a watchlist.",
     image: "./project-1.gif",
     link: "https://stockchasr.herokuapp.com/",
   },
