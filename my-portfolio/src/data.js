@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "Budget Tracker",
-    subtitle: "React and Firebase",
+    subtitle: "JavaScript and Express",
     description:
       "Progressive budget tracker with offline capability.",
     image: "./project-3.gif",
@@ -36,10 +36,10 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "John Doe",
-    company: "Duff",
+      "Patrick is extremely passionate about his education and career in development. During bootcamp, he would frequently stay after class and work evenings and weekends to ensure his assignments and his group projects were being built to the proper specification and that his teammates were supported throughout the process. Patrick is a hard worker and makes a valuable member of any team he is a part of.",
+    image: "https://media-exp1.licdn.com/dms/image/C4E03AQFVozn30QRb5Q/profile-displayphoto-shrink_200_200/0/1567733532530?e=1631750400&v=beta&t=HvK3hXy-gCqD4p0UgypRfTwgXIyNR-sYD4I1XTBXGH0",
+    name: "Dan Rosenbaum",
+    company: "T/A - Trilogy Education",
   },
   {
     quote:
