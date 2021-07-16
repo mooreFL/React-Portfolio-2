@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "Social stock information site that allows the user to add and remove stocks from a watchlist.",
-    image: "./project-1.gif",
+    image: "./project-1.png",
     link: "https://stockchasr.herokuapp.com/",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "JavaScript and Handlebars",
     description:
       "A dating app that matches users based on movie preference.",
-    image: "./project-2.gif",
+    image: "./project-2.png",
     link: "https://and--chill.herokuapp.com/",
   },
   {
@@ -20,15 +20,15 @@ export const projects = [
     subtitle: "JavaScript and Express",
     description:
       "Progressive budget tracker with offline capability.",
-    image: "./project-3.gif",
+    image: "./project-3.png",
     link: "https://moore-progressive-budget.herokuapp.com/",
   },
   {
     title: "Work-Day Scheduler",
     subtitle: "JavaScript, Moment.js",
     description:
-      "A hourly work day (9-5) calender that changes stylistically by hour based on actual time using momentjs.",
-    image: "./project-4.gif",
+      "A work day calender that changes stylistically by hour based on actual time",
+    image: "./project-4.png",
     link: "https://moorefl.github.io/Work-Day-Scheduler/",
   },
 ];
@@ -43,10 +43,10 @@ export const testimonials = [
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Jane Doe",
-    company: "oof",
+      "I was fortunate to work in a study group with Patrick during our Full Stack Web Development Boot Camp at University of Central Florida. Patrick is a driven, hard-working, up for a challenge, and always comes up with the right idea or solution when it's needed. He is a class act, and anyone would be lucky to have him on their team.",
+    image: "https://media-exp1.licdn.com/dms/image/D4E35AQHO56zuNq3wqQ/profile-framedphoto-shrink_200_200/0/1626095493849?e=1626559200&v=beta&t=VvAfw5pPaKFoLUgqCkY2qMf1OE7PNomDwoyHML4Tr2U",
+    name: "Adam Alcantara",
+    company: "Classmate - UCF",
   },
 ];
 
@@ -57,5 +57,6 @@ export const skills = [
   "MySQL",
   "Express.js",
   "MongoDB",
-  "React"
+  "React", 
+  "Tailwind"
 ];
