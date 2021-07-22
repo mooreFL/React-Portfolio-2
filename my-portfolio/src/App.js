@@ -2,10 +2,12 @@
 import React from "react";
 import About from "./components.js/About";
 import Contact from "./components.js/Contact";
+import ContactForm from "./components.js/Contactform";
 import Navbar from "./components.js/Navbar";
 import Projects from "./components.js/Projects";
 import Skills from "./components.js/Skills";
 import Testimonials from "./components.js/Testimonials";
+
 
 export default function App() {
   return (
@@ -15,7 +17,8 @@ export default function App() {
       <Projects />
       <Skills />
       <Testimonials />
-      <Contact />
+      // <Contact />
+      <ContactForm />
     </main>
   );
 }
