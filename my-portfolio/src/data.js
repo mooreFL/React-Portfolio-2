@@ -6,6 +6,7 @@ export const projects = [
       "Social stock information site that allows the user to add and remove stocks from a watchlist.",
     image: "./project-1.png",
     link: "https://stockchasr.herokuapp.com/",
+    repo:"https://stockchasr.herokuapp.com",
   },
   {
     title: "&Chill",
@@ -14,6 +15,7 @@ export const projects = [
       "A dating app that matches users based on movie preference.",
     image: "./project-2.png",
     link: "https://and--chill.herokuapp.com/",
+    repo: "",
   },
   {
     title: "Budget Tracker",
@@ -22,14 +24,16 @@ export const projects = [
       "Progressive budget tracker with offline capability.",
     image: "./project-3.png",
     link: "https://moore-progressive-budget.herokuapp.com/",
+    repo: "",
   },
   {
     title: "Work-Day Scheduler",
-    subtitle: "JavaScript, Moment.js",
+    subtitle: "JavaScript and Moment.js",
     description:
       "A work day calender that changes stylistically by hour based on actual time",
     image: "./project-4.png",
     link: "https://moorefl.github.io/Work-Day-Scheduler/",
+    repo: "",
   },
 ];
 
@@ -44,7 +48,7 @@ export const testimonials = [
   {
     quote:
       "I was fortunate to work in a study group with Patrick during our Full Stack Web Development Boot Camp at University of Central Florida. Patrick is a driven, hard-working, up for a challenge, and always comes up with the right idea or solution when it's needed. He is a class act, and anyone would be lucky to have him on their team.",
-    image: "https://media-exp1.licdn.com/dms/image/D4E35AQHO56zuNq3wqQ/profile-framedphoto-shrink_200_200/0/1626095493849?e=1626559200&v=beta&t=VvAfw5pPaKFoLUgqCkY2qMf1OE7PNomDwoyHML4Tr2U",
+    image: "https://media-exp1.licdn.com/dms/image/D4E35AQHO56zuNq3wqQ/profile-framedphoto-shrink_200_200/0/1626095493849?e=1627156800&v=beta&t=klm0vR4TRD40p4zeuyla8yAm0oODUySvXUnd5dduKa0",
     name: "Adam Alcantara",
     company: "Classmate - UCF",
   },

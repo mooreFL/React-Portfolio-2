@@ -1,6 +1,6 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
-import resume from "./updatedresume.pdf"
+import resume from "./updatedresume.pdf";
 
 export default function Navbar() {
   return (

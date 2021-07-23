@@ -1,7 +1,7 @@
 
 import React from "react";
 import About from "./components.js/About";
-import Contact from "./components.js/Contact";
+// import Contact from "./components.js/Contact";
 import ContactForm from "./components.js/Contactform";
 import Navbar from "./components.js/Navbar";
 import Projects from "./components.js/Projects";
@@ -17,8 +17,9 @@ export default function App() {
       <Projects />
       <Skills />
       <Testimonials />
-      // <Contact />
       <ContactForm />
-    </main>
-  );
-}
+      </main>
+      );
+    }
+    
+    // <Contact />
