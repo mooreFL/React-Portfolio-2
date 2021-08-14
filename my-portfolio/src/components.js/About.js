@@ -29,9 +29,9 @@ export default function About() {
             </div>
             <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
               <img
-                className="object-cover object-center rounded"
+                className="object-cover object-center rounded-3xl"
                 alt="A closing tag coding symbol."
-                src="./code-512.png"
+                src="./portfolioheadshot.png"
               />
             </div>
           </div>
