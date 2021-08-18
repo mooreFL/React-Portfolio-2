@@ -34,7 +34,8 @@ export default function About() {
                 src="./portfolioheadshot.png"
               />
             </div>
-          </div>
+            </div>
+            
         </section>
       );
 }

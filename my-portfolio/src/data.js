@@ -21,7 +21,7 @@ export const projects = [
     subtitle: "JavaScript and Moment.js",
     description:
       "A work day calender that changes stylistically by hour based on actual time",
-    image: "./project-3.png",
+    image: "./project-3.PNG",
     link: "https://moorefl.github.io/Work-Day-Scheduler/",
     repo: "https://github.com/mooreFL/Work-Day-Scheduler",
   },
@@ -29,7 +29,7 @@ export const projects = [
     title: "Budget Tracker",
     subtitle: "JavaScript and Express",
     description: "Progressive budget tracker with a chart and offline access and functionality.",
-    image: "./project-4.png",
+    image: "./project-4.PNG",
     link: "https://moore-progressive-budget.herokuapp.com/",
     repo: "https://github.com/mooreFL/Progressive_Budget",
   },
